@@ -1,0 +1,88 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+section
+{
+    height: 700px;
+    
+    
+}
+p
+{
+    color: dimgray;
+}
+
+.dv .hmm
+{
+    color: rgb(245, 38, 107);
+    font-size: xx-large;
+}
+.dv h2
+{
+    font-size: x-large;
+    font-weight: 400;
+}
+.button1
+{
+    color: white;
+    background-image: linear-gradient(45deg, rgb(240, 92, 141), rgb(245, 38, 107) );
+    border: 1px solid rgb(245, 38, 107);
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+.dv
+{
+    width: 40%;
+    float: left; 
+    margin-top: 70px;
+}
+.dv #hmm
+{
+    color: balck;
+}
+.text
+{
+    margin-top: 150px;
+    margin-left: 140px;
+}
+.text p
+{
+    width: 95%;
+}
+.text3
+{
+    margin-top: 150px;
+    margin-left: 120px;
+}
+.text3 p
+{
+    width: 95%;
+}
+.text2
+{
+    margin-left: 50px;
+}
+.text4
+{
+    margin-left: 50px;
+}
+.img1
+{
+    width: 80%;
+}
+.img2
+{
+    width: 120%;
+}
+#background1
+{
+    background-image: url(images/header-bg.png);
+    background-size: cover;
+}
+#bacground2
+{
+    background-image: url(images/biography-bg.png);
+    background-size: cover;
+}
