@@ -70,11 +70,11 @@ p
 }
 .img1
 {
-    width: 80%;
+    width: 110%;
 }
 .img2
 {
-    width: 120%;
+    width: 110%;
 }
 #background1
 {
@@ -85,4 +85,76 @@ p
 {
     background-image: url(images/biography-bg.png);
     background-size: cover;
+}
+.pic
+{
+    width: 30%;   
+    float: left;
+    margin-top: 70px;
+    
+    
+}
+.dhur
+{
+    margin-left: 90px;
+}
+.image-sec h1
+{
+    margin-top: 120px;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.image-sec .pic img
+{
+    width: 93%;
+       
+}
+.image-sec
+{
+    background-image: url(images/latest-work-bg.png);
+    background-size: cover;
+}
+.footer
+{
+    text-align: center;
+    margin-top: 120px;
+    background-image: url(images/footer-bg.png);
+    background-size: cover;
+    
+
+}
+.footer h1
+{
+    font-size: xx-large;
+    padding-top: 50px;
+}
+.middle
+{
+    width: 60%;
+    margin-left: 215px;
+}
+.border
+{
+    border: 1px solid rgb(245, 38, 107) ;
+    margin-left: 355px;
+    margin-right: 355px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 30px;
+    color: white;
+    background-image: linear-gradient(45deg, rgb(240, 92, 141), rgb(245, 38, 107) );
+}
+.border p
+{
+    color: white;
+}
+footer
+{
+    text-align: center;
+}
+footer p
+{
+    font-size: smaller;
+    font-weight: bold;
 }
