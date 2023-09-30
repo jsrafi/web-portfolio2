@@ -136,8 +136,9 @@ p
 .border
 {
     border: 1px solid rgb(245, 38, 107) ;
-    margin-left: 355px;
-    margin-right: 355px;
+    width: 40%;
+    position: relative;
+    left: 385px;
     padding: 20px;
     border-radius: 10px;
     color: white;
